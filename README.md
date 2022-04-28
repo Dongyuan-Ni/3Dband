@@ -13,4 +13,4 @@ Plot 3Dband
 
 6.Plot it.
 
-7.Using to make 3Dband better-looking
+7.Using 3dband_better.py to make the 3Dband better-looking.
